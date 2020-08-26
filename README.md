@@ -1,6 +1,6 @@
 # CourseProjectAUV
 Code for the 6th semester's course project. The task was to program AUV in V-rep for searching the red cubes.
-Код для курсовой работы 6-го семестра. Задача состояла в программировании АНПА из V-rep для поиска красных кубиков.
+<br> Код для курсовой работы 6-го семестра. Задача состояла в программировании АНПА из V-rep для поиска красных кубиков.
 
 Куча минусов:
 - Интерфейса нет
